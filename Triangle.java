@@ -12,6 +12,7 @@ public class Triangle{
    public double pythagoras() {
 		return Math.sqrt(a*a + b*b);
    }
+   //Intendation!
 public double circumference() {
 	return a + b + pythagoras();
 }

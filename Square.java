@@ -9,6 +9,7 @@ public class Square {
 	}
 	
 	public double circumference() {
+		//technically 2*width + 2*height ;)
 		return 4 * height;
 	}
 }
